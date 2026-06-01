@@ -1,0 +1,16 @@
+{
+  "name": "Mon Petit Jardin",
+  "short_name": "Mon Jardin",
+  "description": "Un petit jardin d'outils tendres pour se détendre, se concentrer et apprivoiser ses émotions.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#efe6fb",
+  "theme_color": "#cdb8e6",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
